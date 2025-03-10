@@ -1,24 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Patient Record
-// Course:   CS 300 Spring 2023
-//
-// Author:   Arnav Srivastav
-// Email:    asrivastav3@wisc.edu
-// Lecturer:  Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// None
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// None
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// None
-//
-///////////////////////////////////////////////////////////////////////////////
 
 /**
  * This class models PatientRecord objects to be managed in a priority queue at an

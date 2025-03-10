@@ -1,24 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Care admission
-// Course:   CS 300 Spring 2023
-//
-// Author:   Arnav Srivastav
-// Email:    asrivastav3@wisc.edu
-// Lecturer:  Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// None
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// None
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// None
-//
-///////////////////////////////////////////////////////////////////////////////
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;
